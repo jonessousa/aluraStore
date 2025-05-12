@@ -24,7 +24,8 @@ O notebook é dividido em 5 categorias principais:
 ### 1. 📈 Análise do Faturamento
 - Soma de **Preço + Frete** para calcular o faturamento total por loja.
 - Representação visual com gráfico de barras.
-- ![image](https://github.com/user-attachments/assets/653f412b-f693-414b-ae61-1e8b5b333a23)
+-![image](https://github.com/user-attachments/assets/aad70ef4-c1c8-4b87-ab04-351a20c102c9)
+
 
 
 ### 2. 🛍️ Vendas por Categoria
@@ -34,7 +35,8 @@ O notebook é dividido em 5 categorias principais:
 ### 3. ⭐ Média de Avaliação das Lojas
 - Cálculo da **média das avaliações** dadas pelos clientes após a compra.
 - Gráfico de comparação entre as lojas.
-- ![image](https://github.com/user-attachments/assets/1e8ccd38-ed1f-469a-9097-23d9fc87e4cf)
+-![image](https://github.com/user-attachments/assets/0269f2fc-4dad-4d64-a56a-012a513a81e6)
+
 
 
 ### 4. 🔝 Produtos Mais e Menos Vendidos
@@ -44,7 +46,8 @@ O notebook é dividido em 5 categorias principais:
 ### 5. 🚚 Frete Médio por Loja
 - Cálculo da **média de frete cobrado** por cada loja.
 - Ajuda a entender o impacto nos custos para o consumidor.
-- ![image](https://github.com/user-attachments/assets/67973393-a9ce-4a86-9806-58fc005b4fd7)
+- ![image](https://github.com/user-attachments/assets/7012ae78-c8ac-42f2-b56d-183c3acfb538)
+
 
 
 ---
